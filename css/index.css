@@ -1,6 +1,10 @@
-@import "common.css";
+/* @import "common.css";
 @import "controls.css";
 @import "header.css";
 @import "burger-icon.css";
 @import "main-products.css";
-@import "footer.css";
+@import "footer.css"; */
+
+.btn-info {
+    background-color: red;
+}
